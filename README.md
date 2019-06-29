@@ -51,4 +51,4 @@ You can also use `**help` on its own to view all of the pages in Alestria's help
 - Alestria is coded in Node.js.
 - I made this bot in 4 days, so unforseen bugs (especially with the filters) may arise.
 - `Config.json` 's token is empty.
-- The color palettes were inspired by an earlier bot I made. However, the color palettes that bot had were simply scraped from the web. With this bot, all the colors are algorithmically generated.
+- The color palettes were inspired by an earlier bot I made. However, the color palettes that bot had were simply scraped from the web. With this bot, all the colors are algorithmically generated. Also, no code was reused (you can cross reference with my repository Color.io).
