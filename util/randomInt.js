@@ -1,0 +1,1 @@
+module.exports = (start, stop) => Math.floor(Math.random() * (stop - start + 1) + start);
