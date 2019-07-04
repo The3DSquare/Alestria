@@ -5,6 +5,7 @@
 A Discord bot with fun, colorful, and aesthetic commands for all to use made during **Discord Hack Week**. 
 [Click here for the invite link!](https://discordapp.com/api/oauth2/authorize?client_id=592857636869767201&permissions=34816&scope=bot)
 - Note: The bot is currently being hosted on my computer while I'm setting up a server. Please excuse any downtime! :)
+[Click here for my Discord support server](https://discordapp.com/invite/MnGWM2s)
 
 Generate images that look like this (and the image above):
 
